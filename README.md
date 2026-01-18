@@ -41,7 +41,7 @@ Surprise Housing, a US-based housing company, aims to enter the Australian real 
         R2 Difference: 0.0576 (6.17%)
         Training MSE: 0.0103
         Test MSE: 0.0203
-    Rige has better accuracy but used more features.
+    Rige has better accuracy but use more features.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
